@@ -1,8 +1,8 @@
-# air-quality-prediction
+# Air Quality Prediction Project
 My air quality project using Python
 
 
-# Air Quality Prediction Project
+
 
 ## What is this?
 I checked air data to predict when it’s bad and suggest fixes.
